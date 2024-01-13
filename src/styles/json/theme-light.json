@@ -1,0 +1,8 @@
+{
+    "--background-color": "#fff",
+    "--font-color": "#333",
+    "--border-style": "2px dashed #fff",
+    "--link-color": "#b8bfc6",
+    "--el-color-primary": "#837d7d",
+    "--el-color-danger": "#674508"
+}

@@ -1,0 +1,8 @@
+{
+    "--background-color": "#333",
+    "--font-color": "#fff",
+    "--border-style": "1px solid #ccf547",
+    "--link-color": "skyblue",
+    "--el-color-primary": "#333",
+    "--el-color-danger": "#e99c11"
+}
